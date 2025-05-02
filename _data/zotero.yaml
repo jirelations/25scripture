@@ -1,5 +1,20 @@
 ---
 references:
+- id: 450YearsNew
+  abstract: A conservators guide to the restoration process
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: 450YearsNew
+  container-title: Google Arts & Culture
+  language: en
+  title: '450 Years New: The Revival of Copernicus’ Revolutionary Text'
+  title-short: 450 Years New
+  type: webpage
+  URL: >-
+    https://artsandculture.google.com/story/450-years-new-the-revival-of-copernicus’-revolutionary-text/PwUBIFyvR4-owg
+
 - id: akkermanSocialCodicologyMultiple2025
   author:
     - family: Akkerman
@@ -323,6 +338,51 @@ references:
   URL: >-
     https://blogs.bl.uk/collectioncare/2013/09/parchment-conservation-lyte-geneaology.html
 
+- id: PAPER
+  abstract: "PAPER writing material invented in China that spread throughout Asia and to Iran in the pre-Islamic period. i. Paper in the Iranian World Prior to Printing. ii.\_Paper and Papermaking."
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: PAPER
+  container-title: Encyclopaedia Iranica
+  language: en-US
+  title: PAPER
+  type: webpage
+  URL: https://www.iranicaonline.org/articles/paper-parent/
+
+- id: PAPERIiPaper
+  abstract: >-
+    PAPER ii. Paper and Papermaking PAPER AND PAPERMAKING (kāḡaḏ wa
+    kāḡaḏ-sāzi/kāḡaḏgari), a survey of the paper industry in Iran in recent
+    centuries. Before the introduction of the art of papermaking...
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: PAPERIiPaper
+  container-title: Encyclopaedia Iranica
+  language: en-US
+  title: PAPER ii. Paper and Papermaking
+  type: webpage
+  URL: https://www.iranicaonline.org/articles/paper-and-papermaking/
+
+- id: PAPERPaperIranian
+  abstract: >-
+    PAPER i. Paper in the Iranian World Prior to Printing Paper (kāḡaḏ) is a mat
+    of cellulose fibers that have been beaten in the proximity of water and then
+    collected...
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: PAPERPaperIranian
+  container-title: Encyclopaedia Iranica
+  language: en-US
+  title: PAPER i. Paper in the Iranian World Prior to Printing
+  type: webpage
+  URL: https://www.iranicaonline.org/articles/paper-iran-prior-printing/
+
 - id: pelikanWhoseBibleIt2006
   abstract: >-
     No book has been more pored over, has been the subject of more commentary
@@ -375,6 +435,19 @@ references:
   title: The Project Gutenberg eBook of The Art of Paper-Making, by Alexander Watt
   type: webpage
   URL: https://www.gutenberg.org/files/55757/55757-h/55757-h.htm
+
+- id: QALAM
+  abstract: "QALAM\_ “reed pen.”\_ Qalam (قلم) is a common name for a reed (nay/ney, نی), a perennial plant of the grass family (Gramineae), after its hollow stem is cut and a..."
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: QALAM
+  container-title: Encyclopaedia Iranica
+  language: en-US
+  title: QALAM
+  type: webpage
+  URL: https://www.iranicaonline.org/articles/qalam-pen/
 
 - id: santjordinycPapyrusInventionBooks2023
   accessed:
@@ -438,6 +511,23 @@ references:
   citation-key: Tags
   title: Tags
   type: document
+
+- id: TwoQalamsIslamic
+  abstract: >-
+    The Two Qalams explores the relationship between calligraphers and artists
+    through five exemplary works of calligraphy, drawing, and painting dating
+    from the seventeenth through nineteenth centuries.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: TwoQalamsIslamic
+  language: en
+  title: 'The Two Qalams: Islamic Arts of Pen and Brush'
+  title-short: The Two Qalams
+  type: webpage
+  URL: >-
+    https://philamuseum.org/calendar/exhibition/the-two-qalams-islamic-arts-of-pen-and-brush
 
 - id: ulinChemicalProcessCellulose
   abstract: How does cellulose turn into paper? What chemistry is occurring?
