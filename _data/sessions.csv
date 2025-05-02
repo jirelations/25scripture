@@ -1,92 +1,76 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Aufgabe,tags,contents
+,1,24.04,2025-04-24-1.md,Introduction,Introduction,The physical side of scriptures,materiality,1. Introduction: The physical side of scriptures,1,?,1-Introduction,,"1. Determine your own goals for the course.
+2. Begin to consider the physical aspects involved in writing, transmitting, and reading scripture.",,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,,01.05,2025-05-01-labor-day.md,Labor Day (no class),Labor Day (no class),,,,,,,,,,,
+,2,08.05,2025-05-08-2.md,How books are made,How books are made,Deconstructing books,"readership, usage, economic factors",2. How books are made: Deconstructing books,2,?,2-How-books-are-made,?,Ask fundamental questions regarding a book's production.,Explain the steps in making a book using a book you bring.,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,15.05,2025-05-15-3.md,Excursion,Excursion,,,3. Excursion: ,3,?,3-Excursion,,Record examples of different kinds of book production.,Record the physical details of 3 manuscripts or printed books you find.,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,22.05,2025-05-22-4.md,Parchment as writing support,Parchment as writing support,Preparing animal skins,"species, chemical preparation, physical preparation, hair vs. flesh side",4. Parchment as writing support: Preparing animal skins,4,closeup of parchment,4-Parchment-as-writing-support,"ComSt handbook, YT video","1. List the steps in the process of preparing animal skins for writing.
+2. Consider the implications of parchment as a writing support.",Practice as many steps of parchment production as you can on your own material.,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,,29.05,2025-05-29-ascension.md,Ascension (no class),Ascension (no class),,,,,,,,,,,
+,5,05.06,2025-06-05-5.md,Papyrus & paper as writing support,Papyrus & paper as writing support,Preparing plant materials,"material types, thickness, binding agent, chain lines",5. Papyrus & paper as writing support: Preparing plant materials,5,closeup of papyrus,5-Papyrus-paper-as-writing-support,"ComSt handbook, YT video","1. List the steps in the process of preparing papyrus or pulp for writing.
+2. Compare the traits of parchment, papyrus, and paper.",Practice the steps of papyrus making or paper making using your own materials.,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,12.06,2025-06-12-6.md,Binding & Layout,Binding & Layout,Arranging pages and spaces,"quiring, quire and folio numbers, ruling, pricking, VisColl",6. Binding & Layout: Arranging pages and spaces,6,multi-column manuscript,6-Binding-Layout,ComST handbook?,"1. List several options for collating writing surfaces and formatting the page. 
+2. Explain what these choices might indicate about a manuscript's production.",Sew or collate pages and mark the writing space. ,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,,19.06,2025-06-19-corpus-christi.md,Corpus Christi (no class),Corpus Christi (no class),,,,,,,,,,,
+,7,26.06,2025-06-26-7.md,Excursion,Excursion,,,7. Excursion: ,7,,7-Excursion,,Ask in-depth questions regarding a book's production.,Record in-depth observations and questions about the production of 1 manuscript or printed book. ,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,03.07,2025-07-03-8.md,Inks & Utensils,Inks & Utensils,Mixing and writing,"inks vs. pigments, carbon vs. metallic, pens vs. brushes",8. Inks & Utensils: Mixing and writing,8,"quill, etc.",8-Inks-Utensils,ComSt handbook,Compare types of inks and writing utensils and begin to identify the evidences of each.,Mix your own ink and write on your sample manuscript with your own utensil.,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,10.07,2025-07-10-9.md,Paratexts,Paratexts,"Adding headers, decorations, and annotations","hands, rubrics, incipits, explicits, annotations, vocalization","9. Paratexts: Adding headers, decorations, and annotations",9,red rubrics & annotations,9-Paratexts,?,Explain what paratexts may indicate about a manuscript's readership.,Add paratexts of different types to your sample manuscript.,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,17.07,2025-07-17-10.md,Presentations,Presentations,,,10. Presentations: ,10,?,10-Presentations,,Apply what you've learned in the course to your own example.,"Present the manuscript you created, explaining the decisions you made about its production and the challenges you faced.",[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,24.07,2025-07-24-11.md,Review,Review,,,11. Review: ,11,manuscript index?,11-Review,,Summarize and reflect what you've learned in the course.,Collect your notes and questions from the course.,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
-layout: post
-session: 12
-tags: [12]
-level: overview
----"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
-layout: post
-session: 13
-tags: [13]
-level: overview
----"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
-layout: post
-session: 14
-tags: [14]
-level: overview
----"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
-layout: post
-session: 15
-tags: [15]
-level: overview
----"
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
