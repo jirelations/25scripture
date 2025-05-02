@@ -1,475 +1,539 @@
 ---
 references:
-- id: assmannMonotheismCurseBlessing2018a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+- id: akkermanSocialCodicologyMultiple2025
   author:
-    - family: Assmann
-      given: Jan
-  citation-key: assmannMonotheismCurseBlessing2018a
-  collection-number: '9'
-  collection-title: Routledge research in religion and education
-  container-title: >-
-    Public theology, religious diversity, and interreligious learning:
-    Contributing to the common good through religious education
-  DOI: 10.11588/propylaeumdok.00005462
-  editor:
-    - family: Pirner
-      given: Manfred L.
-    - family: Lähnemann
-      given: Johannes
-    - family: Haussmann
-      given: Werner
-    - family: Schwarz,
-      given: Susanne
-  event-place: New York ; London
+    - family: Akkerman
+      given: Olly
+  citation-key: akkermanSocialCodicologyMultiple2025
+  event-place: Leiden
+  ISBN: 978-90-04-68932-9
   issued:
-    - year: 2018
-  language: eng
-  license: info:eu-repo/semantics/openAccess
-  page: 94-104
-  publisher: Routledge
-  publisher-place: New York ; London
-  title: Monotheism – curse or blessing?
-  type: chapter
-  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
-  volume: '9'
-
-- id: beckingBoundariesIsraeliteMonotheism2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Becking
-      given: Bob
-  citation-key: beckingBoundariesIsraeliteMonotheism2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
+    date-parts:
+      - - '2025'
   language: en
-  page: 9-27
+  number-of-pages: 1 Online-Ressource
+  original-date:
+    - year: 2025
   publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: The boundaries of Israelite monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: chatelioncounetDivineMessiahEarly2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Chatelion Counet
-      given: Patrick
-  citation-key: chatelioncounetDivineMessiahEarly2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 28-52
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: collinsKingMessiahSon2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Collins
-      given: John J
-  citation-key: collinsKingMessiahSon2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 291-316
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: King and Messiah as Son of God
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  abstract: >-
-    What is the significance of monotheism in modern western culture, taking
-    into account both its problematic and promising aspects? Biblical texts and
-    the biblical faith traditions bear a continuous, polemical tension between
-    exclusive and inclusive perceptions and interpretations of monotheism.
-    Western monotheism proves itself to be multi-significant and heterogeneous,
-    producing boundary-setting as well as boundary-crossing tendencies, is the
-    common thesis of the authors of this book, who have been collectively
-    debating this theme for two years in an interdisciplinary scholarly setting.
-    Their contributions range from the fields of biblical and religious studies,
-    history and philosophy of religion, systematic theology, to gender studies
-    in theology and religion.The authors also explain the particular
-    contribution of their own theological discipline to these debates.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  title-short: The Boundaries of Monotheism
+  publisher-place: Leiden
+  source: COinS
+  title: 'Social Codicology : The Multiple Lives of Manuscripts in Muslim Societies'
+  title-short: Social Codicology
   type: book
   URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
+    https://brill-com.proxy.ub.uni-frankfurt.de/display/title/57317?contents=editorial-content
 
-- id: gnuseNoOtherGods1997a
-  abstract: >-
-    This is the first full-scale assessment of the theological, social and
-    ideational implications of our new understandings of ancient Israel's social
-    and religious development. Scholars now stress the gradual emergence of
-    Israel out of the culture of ancient Palestine and the surrounding ancient
-    Near East rather than contrast Israel with the ancient world. Our new
-    paradigms stress the ongoing and unfinished nature of the monotheistic
-    'revolution', which is indeed still in process today. Gnuse takes a further
-    bold step in setting the emergence of monotheism in a wider intellectual
-    context: he argues brilliantly that the interpretation of Israel's
-    development as both an evolutionary and revolutionary process corresponds to
-    categories of contemporary evolutionary thought in the biological and
-    palaeontological sciences (Punctuated Equilibrium).
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+- id: bausiComparativeOrientalManuscript2015
   author:
-    - family: Gnuse
-      given: Robert Karl
-  citation-key: gnuseNoOtherGods1997a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-37415-8
+    - family: Bausi
+      given: Alessandro
+    - family: Sokolinski
+      given: Eugenia
+  citation-key: bausiComparativeOrientalManuscript2015
+  contributor:
+    - family: Comparative Oriental Manuscript Studies
+      given: ''
+  event-place: Hamburg
+  ISBN: 978-3-7323-1768-4 978-3-7323-1770-7 978-3-7323-1769-1
   issued:
-    - year: 1997
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: 'No Other Gods: Emergent Monotheism in Israel'
-  title-short: No Other Gods
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
-
-- id: langMonotheismus1998a
-  author:
-    - family: Lang
-      given: Bernard
-  call-number: '2'
-  citation-key: langMonotheismus1998a
-  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  editor:
-    - family: Cancik
-      given: Hubert
-    - family: Gladigow
-      given: Burkhard
-    - family: Kohl
-      given: Karl-Heinz
-  event-place: Stuttgart
-  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
-  issued:
-    - year: 1998
-  language: de
-  number-of-volumes: '5'
-  page: 148-165
-  publisher: W. Kohlhammer
-  publisher-place: Stuttgart
+    - year: 2015
+  language: en
+  publisher: COMSt, Comparative Oriental Manuscript Studies
+  publisher-place: Hamburg
   source: BnF ISBN
-  title: Monotheismus
-  type: chapter
-  URL: >-
-    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
-  volume: '4'
-
-- id: markschiesPriceMonotheismNew2010a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Markschies
-      given: Christoph
-  citation-key: markschiesPriceMonotheismNew2010a
-  container-title: One God
-  DOI: 10.1017/CBO9780511730115.007
-  editor:
-    - family: Mitchell
-      given: Stephen
-    - family: Van Nuffelen
-      given: Peter
-  event-place: Cambridge
-  ISBN: 978-0-511-73011-5
-  issued:
-    - year: 2010
-  page: 100-111
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: DOI.org (Crossref)
-  title: >-
-    The price of monotheism: Some new observations on a current debate about
-    late antiquity
-  title-short: The price of monotheism
-  type: chapter
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
-
-- id: mcgrathOnlyTrueGod2009a
-  abstract: >-
-    Monotheism is a powerful religious concept shaped by competing ideas and the
-    problems they raised. Surveying New Testament writings and Jewish sources
-    from before and after the rise of Christianity, James F. McGrath argues that
-    even the most developed Christologies in the New Testament fit within the
-    context of first century Jewish monotheism. McGrath pinpoints when the
-    parting of ways took place over the issue of God's oneness, and explores
-    philosophical ideas such as "creation out of nothing" which caused Jews and
-    Christians to develop differing concepts and definitions about God.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: McGrath
-      given: James F.
-  citation-key: mcgrathOnlyTrueGod2009a
-  event-place: Champaign, UNITED STATES
-  ISBN: 978-0-252-09189-6
-  issued:
-    - year: 2009
-  publisher: University of Illinois Press
-  publisher-place: Champaign, UNITED STATES
-  source: ProQuest Ebook Central
-  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
-  title-short: The Only True God
+  title: 'Comparative oriental manuscript studies: An introduction'
+  title-short: Comparative oriental manuscript studies
   type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
+  URL: https://dx.doi.org/10.5281/zenodo.46784
 
-- id: pongratz-leistenNewAgendaStudy2011a
+- id: businessinsiderHowAnimalHides2021
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Pongratz-Leisten
-      given: Beate
-  citation-key: pongratz-leistenNewAgendaStudy2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 1-40
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: A New Agenda for the Study of the Rise of Monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: pongratz-leistenReconsideringConceptRevolutionary2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: Reconsidering the Concept of Revolutionary Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: schmidQuestGodMonotheistic2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Schmid
-      given: Konrad
-  citation-key: schmidQuestGodMonotheistic2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 271-290
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: >-
-    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
-    Hebrew Bible
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: stroumsaIdeaSemiticMonotheism2021a
-  abstract: |-
-    In this work, a sequel to my
-                  A New Science: The Discovery of Religion in an Age of Reason
-                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stroumsa
-      given: Guy G.
-  citation-key: stroumsaIdeaSemiticMonotheism2021a
-  DOI: 10.1093/oso/9780192898685.001.0001
-  edition: '1'
-  event-place: Oxford
-  ISBN: 978-0-19-289868-5 978-0-19-192520-7
+    - year: 2025
+      month: 3
+      day: 11
+  citation-key: businessinsiderHowAnimalHides2021
+  dimensions: '8:03'
+  director:
+    - literal: Business Insider
   issued:
     - year: 2021
-      month: 5
-      day: 20
-  language: en
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: DOI.org (Crossref)
-  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
-  title-short: The Idea of Semitic Monotheism
-  type: book
-  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
+      month: 3
+      day: 7
+  source: YouTube
+  title: >-
+    How Animal Hides Are Made Into Parchment At The Last Workshop In The US |
+    Still Standing
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=KchdBfAK2aw
 
-- id: stuckenbruckEarlyJewishChristian2004a
+- id: DifferencesParchmentVellum2016
   abstract: >-
-    Early Christology must focus not simply on "historical" but also on
-    theological ideas found in contemporary Jewish thought and practice. In this
-    book, a range of distinguished contributors considers the context and
-    formation of early Jewish and Christian devotion to God alone-the emergence
-    of "monotheism." The idea of monotheism is critically examined from various
-    perspectives, including the history of ideas, Graeco-Roman religions, early
-    Jewish mediator figures, scripture exegesis, and the history of its use as a
-    theological category.The studies explore different ways of conceiving of
-    early Christian monotheism today, asking whether monotheism is a
-    conceptually useful category, whether it may be applied cautiously and with
-    qualifications, or whether it is to be questioned in favor of different
-    approaches to understanding the origins of Jewish and Christian beliefs and
-    worship.This is volume 1 in the Early Christianity in Context series and
-    volume 263 in the Journal for the Study of the New Testament Supplement
-    Series
+    The term parchment is a general term for an animal skin which has been
+    prepared for writing or printing. Parchment has been made for centuries, and
+    is usually calf, goat, or sheep skin. The term vellum from the French veau
+    refers to a parchment made from calf skin. The manufacture of parchment is
+    quite involved. After the skin is removed from the animal and any hair or
+    flesh is cleaned away, it is stretched on a wooden frame. While it is
+    stretched, the parchment maker or parchminer scrapes the surface of the skin
+    with a special curved knife.
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stuckenbruck
-      given: Loren T.
-    - family: North
-      given: Wendy
-  citation-key: stuckenbruckEarlyJewishChristian2004a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-42917-9
+    - year: 2025
+      month: 4
+      day: 21
+  citation-key: DifferencesParchmentVellum2016
+  container-title: National Archives
   issued:
-    - year: 2004
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: Early Jewish and Christian Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
+    - year: 2016
+      month: 8
+      day: 15
+  language: en
+  title: Differences between Parchment, Vellum and Paper
+  type: webpage
+  URL: https://www.archives.gov/preservation/formats/paper-vellum.html
 
-- id: triggMonotheismReligiousDiversity2020a
-  abstract: >-
-    Cambridge Core - Religion: General Interest - Monotheism and Religious
-    Diversity
+- id: drewmatottPapermakingDifferentSettings2023
   accessed:
+    - year: 2025
+      month: 3
+      day: 11
+  citation-key: drewmatottPapermakingDifferentSettings2023
+  dimensions: '39:19'
+  director:
+    - literal: Drew Matott
+  issued:
     - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Trigg
-      given: Roger
-  citation-key: triggMonotheismReligiousDiversity2020a
-  collection-title: Elements in Religion and Monotheism
-  DOI: 10.1017/9781108637503
-  event-place: Cambridge
-  ISBN: 978-1-108-63750-3 978-1-108-71445-7
+      month: 12
+      day: 10
+  source: YouTube
+  title: Papermaking in Different Settings
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=A77Bn3gBj5E
+
+- id: drewmatottWesternPapermakingPapermaking2020
+  accessed:
+    - year: 2025
+      month: 3
+      day: 11
+  citation-key: drewmatottWesternPapermakingPapermaking2020
+  dimensions: '21:07'
+  director:
+    - literal: Drew Matott
   issued:
     - year: 2020
-      month: 8
+      month: 9
+      day: 19
+  source: YouTube
+  title: Western Papermaking (Papermaking with Rag)
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=j9Pvk-mzEUs
+
+- id: gruendlerIntroduction2020
+  author:
+    - family: Gruendler
+      given: Beatrice
+  citation-key: gruendlerIntroduction2020
+  container-title: The rise of the Arabic book
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-0-674-25028-4
+  issued:
+    - year: 2020
   language: en
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
-  title: Monotheism and Religious Diversity
+  page: 1-12 (optionally 1-26)
+  publisher: Harvard University Press
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: Introduction
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D6326196
+
+- id: gruendlerRiseArabicBook2020
+  author:
+    - family: Gruendler
+      given: Beatrice
+  citation-key: gruendlerRiseArabicBook2020
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-0-674-25028-4
+  issued:
+    - year: 2020
+  language: en
+  number-of-pages: 1 Online-Ressource
+  publisher: Harvard University Press
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: The rise of the Arabic book
   type: book
   URL: >-
-    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D6326196
+
+- id: HeresLookingYou
+  abstract: >-
+    We recently posted about parchment and how our conservators treat parchment
+    collection items, but what is the difference between leather and parchment?
+    Parchment and leather are both made from animal pelts, but parchment does
+    not undergo tanning as leather does. The process of tanning traditionally
+    used tannin which is an...
+  accessed:
+    - year: 2025
+      month: 4
+      day: 21
+  citation-key: HeresLookingYou
+  language: en
+  title: 'Here’s looking at you kid: Under the microscope with leather'
+  title-short: Here’s looking at you kid
+  type: webpage
+  URL: >-
+    https://blogs.bl.uk/collectioncare/2013/09/heres-looking-at-you-kid-under-the-microscope-with-leather.html
+
+- id: houstonShapeScriptHow2012
+  citation-key: houstonShapeScriptHow2012
+  editor:
+    - family: Houston
+      given: Stephen D.
+  event-place: Santa Fe
+  ISBN: 978-1-934691-42-7
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: XXIII, 317 S.
+  publisher: SAR Press
+  publisher-place: Santa Fe
+  source: COinS
+  title: 'Shape of script : how and why writing systems change'
+  title-short: Shape of script
+  type: book
+
+- id: jacksonsartHowTwoRivers2021
+  accessed:
+    - year: 2025
+      month: 3
+      day: 11
+  citation-key: jacksonsartHowTwoRivers2021
+  dimensions: '3:12'
+  director:
+    - literal: Jackson's Art
+  issued:
+    - year: 2021
+      month: 1
+      day: 12
+  source: YouTube
+  title: How Two Rivers Paper Mill make Handmade Rag Paper (On Location)
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=2b-DMktyZpY
+
+- id: JudischeHandschriftenRestaurieren
+  accessed:
+    - year: 2025
+      month: 3
+      day: 28
+  citation-key: JudischeHandschriftenRestaurieren
+  DOI: 10.1163/9789004444522_COCO_CC1701
+  language: en
+  publisher: Koninklijke Brill NV
+  source: DOI.org (Crossref)
+  title: >-
+    Jüdische Handschriften. Restaurieren. Bewahren. Präsentieren. Teil I:
+    Jüdische Kultur im Spiegel der Berliner Sammlung
+  title-short: Jüdische Handschriften. Restaurieren. Bewahren. Präsentieren. Teil I
+  type: dataset
+  URL: https://referenceworks.brill.com/doi/10.1163/9789004444522_COCO_CC1701
+
+- id: krishashokScienceFermentationLactofermentation2021
+  accessed:
+    - year: 2025
+      month: 4
+      day: 21
+  citation-key: krishashokScienceFermentationLactofermentation2021
+  dimensions: '10:55'
+  director:
+    - literal: krishashok
+  issued:
+    - year: 2021
+      month: 9
+      day: 8
+  source: YouTube
+  title: 'The Science of Fermentation: Lactofermentation'
+  title-short: The Science of Fermentation
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=GQXa6MQvt7g
+
+- id: lifebymikegCompleteBeginnersGuide2017
+  accessed:
+    - year: 2025
+      month: 4
+      day: 21
+  citation-key: lifebymikegCompleteBeginnersGuide2017
+  dimensions: '23:50'
+  director:
+    - literal: LifebyMikeG
+  issued:
+    - year: 2017
+      month: 11
+      day: 12
+  source: YouTube
+  title: The Complete Beginner's Guide to Fermenting Foods at Home
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=iiNl0Jv6xTw
+
+- id: litDigitizedManuscriptsPhilology2019
+  abstract: >-
+    "Among Digitized Manuscripts. Philology, Codicology, Paleography in a
+    Digital World" published on 29 Oct 2019 by Brill.
+  accessed:
+    - year: 2021
+      month: 1
+      day: 28
+  author:
+    - family: Lit
+      given: L. W. C.
+      dropping-particle: van
+  citation-key: litDigitizedManuscriptsPhilology2019
+  event-place: Leiden
+  ISBN: 978-90-04-40035-1
+  issued:
+    - year: 2019
+      month: 10
+      day: 29
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: brill-com.emedien.ub.uni-muenchen.de
+  title: >-
+    Among Digitized Manuscripts. Philology, Codicology, Paleography in a Digital
+    World
+  type: book
+  URL: http://brill.com/view/title/56196
+
+- id: NotParchmentMade
+  abstract: >-
+    Hamlet (Act V, Scene I), William Shakespeare Parchment and vellum Parchment
+    is an animal pelt, most often sheep, calf, or goatskin, which has been
+    unhaired by liming or enzymatic action and then stretched on a frame while
+    wet. This stretching and drying under tension causes the collagen fibres in
+    the...
+  accessed:
+    - year: 2025
+      month: 4
+      day: 21
+  citation-key: NotParchmentMade
+  language: en
+  title: Is not parchment made of sheepskins? Ay, my lord, and of calfskins too...
+  title-short: Is not parchment made of sheepskins?
+  type: webpage
+  URL: >-
+    https://blogs.bl.uk/collectioncare/2013/09/parchment-conservation-lyte-geneaology.html
+
+- id: pelikanWhoseBibleIt2006
+  abstract: >-
+    No book has been more pored over, has been the subject of more commentary
+    and controversy, or had more influence not only on our religious beliefs but
+    also on our culture and language than the Bible. And certainly no book has
+    been as widely read. But how did the Bible become the book we know it to be?
+    This history of the Bible written by a major historian of theology, the
+    author takes the reader through the Bible's evolution from its earliest
+    incarnation as oral tales to its modern existence in various configurations
+    and translations. From the earliest Hebrew texts and the Bible's appearance
+    in Greek, then Latin, he explores the canonization of different Bibles and
+    why certain books were adopted or rejected by certain religions and sects,
+    as well as the development of the printing press, translation into modern
+    languages, and the varying schools of critical scholarship.
+  author:
+    - family: Pelikan
+      given: Jaroslav
+  citation-key: pelikanWhoseBibleIt2006
+  event-place: London
+  ISBN: 0-670-03385-5 978-0-670-03385-0
+  issued:
+    - year: 2006
+  language: English
+  publisher: Penguin Books
+  publisher-place: London
+  source: Open WorldCat
+  title: Whose Bible is it? A short history of the Scriptures
+  title-short: Whose Bible is it?
+  type: book
+
+- id: PreparingPulp
+  abstract: >-
+    This time we will discuss preparing the pulp and start to describe how
+    handmade paper is made.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 26
+  citation-key: PreparingPulp
+  title: Preparing Pulp
+  type: webpage
+  URL: https://www.handpapermaking.org/post/preparing-pulp
+
+- id: ProjectGutenbergEBook
+  accessed:
+    - year: 2025
+      month: 4
+      day: 22
+  citation-key: ProjectGutenbergEBook
+  title: The Project Gutenberg eBook of The Art of Paper-Making, by Alexander Watt
+  type: webpage
+  URL: https://www.gutenberg.org/files/55757/55757-h/55757-h.htm
+
+- id: santjordinycPapyrusInventionBooks2023
+  accessed:
+    - year: 2025
+      month: 4
+      day: 25
+  citation-key: santjordinycPapyrusInventionBooks2023
+  dimensions: '1:07:05'
+  director:
+    - literal: Sant Jordi NYC
+  issued:
+    - year: 2023
+      month: 4
+      day: 23
+  source: YouTube
+  title: >-
+    Papyrus: The Invention of Books in the Ancient World: Irene Vallejo, Sarah
+    Ruden & Charlotte Whittle
+  title-short: Papyrus
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=bJSSaJ8gEkM
+
+- id: sonstroemHowMakePaper
+  abstract: >-
+    Paper is an indispensable part of modern life. In fact, each American uses
+    about 600 pounds of paper every year. Where does all this paper come from?
+  accessed:
+    - year: 2025
+      month: 4
+      day: 26
+  author:
+    - family: Sonstroem
+      given: Eric
+  citation-key: sonstroemHowMakePaper
+  container-title: A Moment of Science - Indiana Public Media
+  language: en
+  title: How To Make Paper In Your Own Kitchen
+  type: webpage
+  URL: >-
+    https://indianapublicmedia.org/amomentofscience/how-to-make-paper-your-own-kitchen.php
+
+- id: swrhandwerkskunstHowMakePaper2022
+  accessed:
+    - year: 2025
+      month: 3
+      day: 11
+  citation-key: swrhandwerkskunstHowMakePaper2022
+  dimensions: '20:05'
+  director:
+    - literal: SWR Handwerkskunst
+  issued:
+    - year: 2022
+      month: 8
+      day: 23
+  source: YouTube
+  title: How to make paper from old clothes | SWR Handwerkskunst
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=uzuwyCp_sIo
+
+- id: Tags
+  citation-key: Tags
+  title: Tags
+  type: document
+
+- id: ulinChemicalProcessCellulose
+  abstract: How does cellulose turn into paper? What chemistry is occurring?
+  accessed:
+    - year: 2025
+      month: 4
+      day: 26
+  author:
+    - family: Ulin
+      given: Don
+  citation-key: ulinChemicalProcessCellulose
+  container-title: A Moment of Science - Indiana Public Media
+  language: en
+  title: The Chemical Process Of Cellulose To Paper
+  type: webpage
+  URL: https://indianapublicmedia.org/amomentofscience/chemical-cellulose-paper.php
+
+- id: universityofiowagraduatecollegeChanceryPapermaking201620002016
+  accessed:
+    - year: 2025
+      month: 3
+      day: 11
+  citation-key: universityofiowagraduatecollegeChanceryPapermaking201620002016
+  dimensions: '6:42'
+  director:
+    - literal: University of Iowa Graduate College
+  issued:
+    - year: 2016
+      month: 10
+      day: 4
+  source: YouTube
+  title: Chancery Papermaking 2016 - 2000 Sheets in One Day
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=bggttPftmVs
+
+- id: vallejomoreuBooksSkinDetectives2023
+  author:
+    - family: Vallejo Moreu
+      given: Irene
+  citation-key: vallejomoreuBooksSkinDetectives2023
+  container-title: 'Papyrus: The invention of books in the ancient world'
+  event-place: London
+  ISBN: 978-1-5293-4400-4
+  issued:
+    - year: 2023
+  language: eng
+  note: 'OCLC: 1397874432'
+  page: 55-68 (§25-29)
+  publisher: Hodder & Stoughton
+  publisher-place: London
+  source: Open WorldCat
+  title: Books and Skin & A Detective's Task
+  translator:
+    - family: Whittle
+      given: Charlotte
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23929815040/CourseNode/93668888136198/02+-+Vallejo+Moreu+-+2023+-+Books+and+Skin+%26+A+Detective%27s+Task.pdf
+
+- id: vallejomoreuPapyrusInventionBooks2023
+  abstract: >-
+    Long before books were mass produced, those made of reeds from along the
+    Nile were worth fighting and dying for. Journeying along the battlefields of
+    Alexander the Great, beneath the eruptions of Mount Vesuvius, at Cleopatra's
+    palaces and the scene of Hypatia's murder, award-winning author Irene
+    Vallejo chronicles the excitement of literary culture in the ancient world,
+    and the heroic efforts that ensured this impressive tradition would
+    continue. Weaved throughout are fascinating stories about the spies,
+    scribes, illuminators, librarians, booksellers, authors, and statesmen whose
+    rich and sometimes complicated engagement with the written word bears
+    remarkable similarities to the world today: Aristophanes and the censorship
+    of the humourists, Sappho and the empowerment of women's voices, Seneca and
+    the problem of a post-truth world. Vallejo takes us to mountainous
+    landscapes and the roaring sea, to the capitals where culture flourished and
+    the furthest reaches where knowledge found refuge in chaotic times. In this
+    sweeping tour of the history of books, the wonder of the ancient world comes
+    alive and along the way we discover the singular power of the written word
+  author:
+    - family: Vallejo Moreu
+      given: Irene
+  citation-key: vallejomoreuPapyrusInventionBooks2023
+  event-place: London
+  ISBN: 978-1-5293-4400-4
+  issued:
+    - year: 2023
+  language: eng
+  note: 'OCLC: 1397874432'
+  number-of-pages: '442'
+  publisher: Hodder & Stoughton
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Papyrus: The invention of books in the ancient world'
+  title-short: Papyrus
+  translator:
+    - family: Whittle
+      given: Charlotte
+  type: book
+  URL: https://www.google.de/books/edition/Papyrus/seonEQAAQBAJ
 ...

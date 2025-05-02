@@ -1,6 +1,6 @@
 # Site Build Settings
 
-url: https://24inter.pages.gwdg.de
+url: https://25scripture.pages.gwdg.de
 
 # jekyll-paginate configuration
 paginate: 50
@@ -25,8 +25,8 @@ plugins:
 future: true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Entangled Stories"
-description:	       "The History of Jewish-Christian-Muslim Relations in the Premodern Near East (course website, winter semester 2023)"
+title:		           "Making Scripture"
+description:	       "Hands-on experiments to understand the physical production of premodern texts (course website, summer semester 2025)"
 author:              "Nathan Gibson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
