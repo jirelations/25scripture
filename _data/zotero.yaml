@@ -319,6 +319,24 @@ references:
   type: book
   URL: http://brill.com/view/title/56196
 
+- id: mycompasstvHowMakePapyrus2013
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: mycompasstvHowMakePapyrus2013
+  dimensions: '7:28'
+  director:
+    - literal: mycompasstv
+  issued:
+    - year: 2013
+      month: 4
+      day: 22
+  source: YouTube
+  title: How To Make Papyrus Paper
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=DCR8n7qS43w
+
 - id: NotParchmentMade
   abstract: >-
     Hamlet (Act V, Scene I), William Shakespeare Parchment and vellum Parchment
@@ -448,6 +466,87 @@ references:
   title: QALAM
   type: webpage
   URL: https://www.iranicaonline.org/articles/qalam-pen/
+
+- id: Qalam2025
+  abstract: >-
+    A qalam (Arabic: قلم)  is a type of reed pen. It is made from a cut, dried
+    reed, and used for Islamic calligraphy. The pen is seen as an important
+    symbol of wisdom in Islam, and references the emphasis on knowledge and
+    education within the Islamic tradition.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: Qalam2025
+  container-title: Wikipedia
+  issued:
+    - year: 2025
+      month: 1
+      day: 5
+  language: en
+  license: Creative Commons Attribution-ShareAlike License
+  note: 'Page Version ID: 1267408964'
+  source: Wikipedia
+  title: Qalam
+  type: entry-encyclopedia
+  URL: https://en.wikipedia.org/w/index.php?title=Qalam&oldid=1267408964
+
+- id: Quill2025
+  abstract: >-
+    A quill is a writing tool made from a moulted flight feather (preferably a
+    primary wing-feather) of a large bird. Quills were used for writing with ink
+    before the invention of the dip pen/metal-nibbed pen, the fountain pen, and,
+    eventually, the ballpoint pen.
+
+
+    As with the earlier reed pen (and later dip pen), a quill has no internal
+    ink reservoir and therefore needs to periodically be dipped into an inkwell
+    during writing. The hand-cut goose quill is rarely used as a calligraphy
+    tool anymore because many papers are now derived from wood pulp and would
+    quickly wear a quill down. However, it is still the tool of choice for a few
+    scribes who have noted that quills provide an unmatched sharp stroke as well
+    as greater flexibility than a steel pen.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: Quill2025
+  container-title: Wikipedia
+  issued:
+    - year: 2025
+      month: 4
+      day: 29
+  language: en
+  license: Creative Commons Attribution-ShareAlike License
+  note: 'Page Version ID: 1287956017'
+  source: Wikipedia
+  title: Quill
+  type: entry-encyclopedia
+  URL: https://en.wikipedia.org/w/index.php?title=Quill&oldid=1287956017
+
+- id: ReedPen2025
+  abstract: >-
+    A reed pen (Ancient Greek: κάλαμοι kalamoi; singular κάλαμος kalamos) or
+    bamboo pen (traditional Chinese: 竹筆; simplified Chinese: 竹笔; pinyin: zhú bǐ)
+    is a writing implement made by cutting and shaping a single reed straw or
+    length of bamboo.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: ReedPen2025
+  container-title: Wikipedia
+  issued:
+    - year: 2025
+      month: 2
+      day: 21
+  language: en
+  license: Creative Commons Attribution-ShareAlike License
+  note: 'Page Version ID: 1276951612'
+  source: Wikipedia
+  title: Reed pen
+  type: entry-encyclopedia
+  URL: https://en.wikipedia.org/w/index.php?title=Reed_pen&oldid=1276951612
 
 - id: santjordinycPapyrusInventionBooks2023
   accessed:
