@@ -81,6 +81,64 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=KchdBfAK2aw
 
+- id: businessinsiderHowJudaismsMost2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 6
+  citation-key: businessinsiderHowJudaismsMost2024
+  dimensions: '17:45'
+  director:
+    - literal: Business Insider
+  issued:
+    - year: 2024
+      month: 2
+      day: 23
+  source: YouTube
+  title: >-
+    How Judaism's Most Sacred Prayer Object Is Made With 3000-Year-Old
+    Techniques | Still Standing
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=_OYxADDluNI
+
+- id: businessinsiderMeetLastPapyrus2021
+  accessed:
+    - year: 2025
+      month: 5
+      day: 6
+  citation-key: businessinsiderMeetLastPapyrus2021
+  dimensions: '8:00'
+  director:
+    - literal: Business Insider
+  issued:
+    - year: 2021
+      month: 4
+      day: 7
+  source: YouTube
+  title: >-
+    Meet Some Of The Last Papyrus Makers In Egypt Keeping A 5,000-Year-Old Craft
+    Alive | Still Standing
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=SBdVhvo2UUM
+
+- id: businessinsiderWhyCalligraphyInkstones2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 6
+  citation-key: businessinsiderWhyCalligraphyInkstones2024
+  dimensions: '13:31'
+  director:
+    - literal: Business Insider
+  issued:
+    - year: 2024
+      month: 4
+      day: 6
+  source: YouTube
+  title: Why Calligraphy Inkstones Are So Expensive | So Expensive | Business Insider
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=0uyBJ4ZbsNg
+
 - id: DifferencesParchmentVellum2016
   abstract: >-
     The term parchment is a general term for an animal skin which has been
@@ -141,6 +199,24 @@ references:
   title: Western Papermaking (Papermaking with Rag)
   type: motion_picture
   URL: https://www.youtube.com/watch?v=j9Pvk-mzEUs
+
+- id: gettymuseumMakingManuscripts2014
+  accessed:
+    - year: 2025
+      month: 5
+      day: 6
+  citation-key: gettymuseumMakingManuscripts2014
+  dimensions: '6:19'
+  director:
+    - literal: Getty Museum
+  issued:
+    - year: 2014
+      month: 6
+      day: 17
+  source: YouTube
+  title: Making Manuscripts
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=nuNfdHNTv9o
 
 - id: gruendlerIntroduction2020
   author:
