@@ -395,6 +395,41 @@ references:
   type: book
   URL: http://brill.com/view/title/56196
 
+- id: maniaci11MaterialsTools2015
+  author:
+    - family: Maniaci
+      given: Marilena
+    - family: Sokolinski
+      given: Eugenia
+    - family: Rabin
+      given: Ira
+    - family: Hahn
+      given: Oliver
+    - family: Nöller
+      given: Renate
+  citation-key: maniaci11MaterialsTools2015
+  container-title: 'Comparative oriental manuscript studies: An introduction'
+  editor:
+    - family: Bausi
+      given: Alessandro
+    - family: Sokolinski
+      given: Eugenia
+    - family: Maniaci
+      given: Marilena
+  event-place: Hamburg
+  ISBN: 978-3-7323-1768-4 978-3-7323-1770-7 978-3-7323-1769-1
+  issued:
+    - year: 2015
+  language: en
+  page: 71-77
+  publisher: COMSt, Comparative Oriental Manuscript Studies
+  publisher-place: Hamburg
+  source: BnF ISBN
+  title: 1.1 Materials and tools
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23929815040/CourseNode/93668888136198/03+-+Maniaci+et+al.+-+2015+-+1.1+Materials+and+tools.pdf
+
 - id: mycompasstvHowMakePapyrus2013
   accessed:
     - year: 2025
