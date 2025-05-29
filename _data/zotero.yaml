@@ -38,6 +38,23 @@ references:
   URL: >-
     https://brill-com.proxy.ub.uni-frankfurt.de/display/title/57317?contents=editorial-content
 
+- id: barrettBackgroundEuropeanPapermaking2012
+  author:
+    - family: Barrett
+      given: Timothy
+  citation-key: barrettBackgroundEuropeanPapermaking2012
+  container-title: >-
+    Paper Through Time: Non-destructive Analysis of 14th- through 19th-Century
+    European-style Papers
+  issued:
+    - year: 2012
+    - year: 2025
+  language: en
+  publisher: University of Iowa Libraries
+  title: 'Background: European Papermaking Techniques 1300-1800'
+  type: chapter
+  URL: https://paper.lib.uiowa.edu/european.php
+
 - id: bausiComparativeOrientalManuscript2015
   author:
     - family: Bausi
@@ -139,6 +156,127 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=0uyBJ4ZbsNg
 
+- id: cesterosWrittenBloodDecoding2021
+  abstract: >-
+    Due to the large number of preserved magical texts and artefacts (amulets,
+    lead tablets, ostraca, engraved gemstones, etc.), Greco-Roman Egypt offers
+    one of the richest contexts for the study of the phenomenon of magic in
+    Antiquity.* The significance of these documentary and archaeological
+    witnesses lies in the fact that they provide direct evidence of the practice
+    of magic in this period.¹ Among them, the so-called magical papyri stand out
+    as the most important source of information. Modern scholars have classified
+    under this name a very heterogeneous set of papyri,² not only because they
+    spread over a large chronological frame —
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Cesteros
+      given: Miriam Blanco
+  citation-key: cesterosWrittenBloodDecoding2021
+  container-title: Traces of Ink
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 33-56
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: Written in Blood? Decoding Some Red Inks of the Greek Magical Papyri
+  title-short: Written in Blood?
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.8
+
+- id: coliniTriedItIt2021
+  abstract: >-
+    The study of manuscripts’ constituent materials has developed considerably
+    in recent years. But alongside the use of increasingly refined
+    non-destructive techniques and portable equipment, the need for an
+    historiographical study of the materials known and employed for writing in
+    the Arabo-Islamic milieu has become evident. In this view, historical
+    sources, such as treatises on painting or calligraphy, can add information
+    critical to the understanding of past epochs’ technical knowledge and to the
+    correct identification of the materials employed. But the study of these
+    treatises must not be limited to their textual analyses and should instead
+    be accompanied by the experimental
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Colini
+      given: Claudia
+  citation-key: coliniTriedItIt2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 131-153
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: '“I tried it and it is really good”: Replicating Recipes of Arabic Black Inks'
+  title-short: “I tried it and it is really good”
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.13
+
+- id: damianiInkHerculaneumSurvey2021
+  abstract: >-
+    According to ancient testimonies, the ink used in Greek papyri was produced
+    from soot (carbon black/charcoal that functioned as pigment) resulting from
+    the combustion of materials such as resin, oil or wood, mixed with a
+    carbohydrate binder, usually gum arabic from acacia trees (at a ratio of 1 
+    *uncia*  of gum to 3  *unciae*  of carbon)¹ in order to obtain blocks that
+    form a suspension when mixed with water:²   *inde collecta*  (scil. 
+    *fuligo* )  *partim componitur ex gummi subacta ad usum atramenti librarii,
+    reliquum tectores glutinum admiscentes in parietibus utuntur* .  Vitruvius, 
+    *De architectura* , 7, 10  Then, once the soot has been
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Damiani
+      given: Vincenzo
+  citation-key: damianiInkHerculaneumSurvey2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 57-69
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: 'Ink in Herculaneum: A Survey of Recent Perspectives'
+  title-short: Ink in Herculaneum
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.9
+
+- id: derromershopAnleitung11125aVorlage
+  author:
+    - literal: Der Römer Shop
+  citation-key: derromershopAnleitung11125aVorlage
+  title: Anleitung (11125a Vorlage Anleitungen)
+  type: document
+  URL: >-
+    https://www.der-roemer-shop.de/mediafiles/Sonstiges/Anleitungen/11125a%20Vorlage%20Anleitungen%20flyer_DIN_A4_hoch_02.pdf
+
 - id: DifferencesParchmentVellum2016
   abstract: >-
     The term parchment is a general term for an animal skin which has been
@@ -200,6 +338,70 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=j9Pvk-mzEUs
 
+- id: EarlyPapermakingRobert
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: EarlyPapermakingRobert
+  title: Early Papermaking | Robert C. Williams Museum of Papermaking
+  type: webpage
+  URL: https://paper.gatech.edu/early-papermaking
+
+- id: faniLiteraryDimensionLife2021
+  abstract: >-
+    The present enquiry about inks in the Arabo-Islamic manuscript tradition is
+    focused on compilations of technical-artistic recipes on ink making in the
+    Arabic language.* The study considers only those technical works arranged as
+    collections of recipes on ink making that were disseminated and developed as
+    identifiable textual traditions under the name of an author.¹ This selection
+    is based upon the original intention of my research, i.e. mapping the
+    procedures and materials employed in ink making in different ages and
+    regions of the Islamic world. For this reason, anonymous works are only
+    considered from a comparative perspective, and not as meaningful
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Fani
+      given: Sara
+  citation-key: faniLiteraryDimensionLife2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 105-130
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: The Literary Dimension and Life of Arabic Treatises on Ink Making
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.12
+
+- id: FatherKogelUltraviolet
+  abstract: >-
+    2014 marks the hundredth anniversary of another important event: the first
+    use of ultra-violet radiation for the examination of manuscripts, and
+    particularly the deciphering of palimpsests. Scholars are frequently
+    challenged by manuscripts which have faded to the point of illegibility, or
+    which have been deliberately erased, or, most challenging of...
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  citation-key: FatherKogelUltraviolet
+  language: en
+  title: Father Kögel and the ultra-violet examination of manuscripts
+  type: webpage
+  URL: >-
+    https://blogs.bl.uk/collectioncare/2014/03/father-k%C3%B6gel-and-the-ultra-violet-examination-of-manuscripts.html
+
 - id: gettymuseumMakingManuscripts2014
   accessed:
     - year: 2025
@@ -217,6 +419,25 @@ references:
   title: Making Manuscripts
   type: motion_picture
   URL: https://www.youtube.com/watch?v=nuNfdHNTv9o
+
+- id: gibsonPapermakingCottonPulp2025
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: gibsonPapermakingCottonPulp2025
+  dimensions: '22:07'
+  director:
+    - family: Gibson
+      given: Nathan
+  issued:
+    - year: 2025
+      month: 5
+      day: 27
+  source: YouTube
+  title: Papermaking from cotton pulp
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=dt1j0YciSNI
 
 - id: gruendlerIntroduction2020
   author:
@@ -257,6 +478,46 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D6326196
 
+- id: HarvestingFibers
+  abstract: >-
+    In general, harvesting at the end of growing season or during dormancy will
+    yield the most papermaking fiber, but there are a few things to consider.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: HarvestingFibers
+  title: Harvesting Fibers
+  type: webpage
+  URL: https://www.handpapermaking.org/post/harvesting-fibers
+
+- id: hastingsPapermakingRagsRiches2024
+  abstract: >-
+    Before today's thin, brittle paper made from wood pulp became standard,
+    paper was handcrafted by experts using linen rags as the essential material.
+    This post explains the process by which rag paper was made in Europe for
+    centuries.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  author:
+    - family: Hastings
+      given: Patrick
+  citation-key: hastingsPapermakingRagsRiches2024
+  container-title: The Library of Congress
+  genre: webpages
+  issued:
+    - year: 2024
+      month: 12
+      day: 5
+  language: eng
+  title: 'Papermaking: A Rags to Riches Story | Bibliomania'
+  title-short: Papermaking
+  type: post-weblog
+  URL: >-
+    https://blogs.loc.gov/bibliomania/2024/12/05/papermaking-a-rags-to-riches-story
+
 - id: HeresLookingYou
   abstract: >-
     We recently posted about parchment and how our conservators treat parchment
@@ -294,6 +555,26 @@ references:
   title-short: Shape of script
   type: book
 
+- id: ianfrielhistorianVictorianRagTrade2020
+  abstract: "Ian Friel MA, PhD, FSA © Ian Friel 2020 This paper was first published in\_The Quarterly, The Journal of the British Association of Paper Historians, No 115, July 2020, pp 37-44, and is published he…"
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  author:
+    - literal: ianfrielhistorian
+  citation-key: ianfrielhistorianVictorianRagTrade2020
+  container-title: Ian Friel - historian
+  issued:
+    - year: 2020
+      month: 11
+      day: 19
+  language: en
+  title: The Victorian Rag Trade, Smallpox and a Sussex Paper Mill
+  type: post-weblog
+  URL: >-
+    https://ianfrielhistorian.wordpress.com/2020/11/19/the-victorian-rag-trade-smallpox-and-a-sussex-paper-mill/
+
 - id: jacksonsartHowTwoRivers2021
   accessed:
     - year: 2025
@@ -328,6 +609,39 @@ references:
   title-short: Jüdische Handschriften. Restaurieren. Bewahren. Präsentieren. Teil I
   type: dataset
   URL: https://referenceworks.brill.com/doi/10.1163/9789004444522_COCO_CC1701
+
+- id: knoxRecoveryLostWritings2003
+  abstract: >-
+    Modern digital imaging techniques have been applied to the recovery of
+    erased and overwritten writings on historical parchment manuscripts. In our
+    work, we have found that images obtained under different illuminations can
+    increase the contrast of erased or faded writings on parchment. This paper
+    focuses on the use of ultraviolet illumination, which causes parchment to
+    fluoresce, emitting visible light towards the blue end of the spectrum. This
+    fluorescence increases the contrast of both faded and erased iron gall inks
+    on parchment. On the thousand-yearold Archimedes Palimpsest, fluorescence
+    imaging, together with post-capture image processing, makes much of the
+    erased Archimedes text visible to the classical mathematics scholars who are
+    trying to read it. In addition, we have found that ultraviolet reflectance
+    imaging has been able to reveal characters on a scraped page of a
+    five-hundred-yearold Hebrew prayer book that showed little evidence of
+    characters under ultraviolet fluorescent imaging. The physical mechanisms
+    for these differences are not well understood, but they can be used to
+    recover writings that otherwise would be lost forever.
+  author:
+    - family: Knox
+      given: Keith T
+    - family: Easton
+      given: Roger L
+  citation-key: knoxRecoveryLostWritings2003
+  issued:
+    - year: 2003
+  language: en
+  source: Zotero
+  title: >-
+    Recovery of Lost Writings on Historical Manuscripts with Ultraviolet
+    Illumination
+  type: article-journal
 
 - id: krishashokScienceFermentationLactofermentation2021
   accessed:
@@ -429,6 +743,43 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23929815040/CourseNode/93668888136198/03+-+Maniaci+et+al.+-+2015+-+1.1+Materials+and+tools.pdf
+
+- id: martelliAlchemicalInksSyriac2021
+  abstract: >-
+    In terms of the Syriac language,* alchemy is primarily known through the
+    writings preserved in three manuscripts that date between the fifteenth and
+    the sixteenth centuries: (1) British Library, MS Egerton 709 (16th century);
+    (2) British Library, MS Oriental 1593 (15th–16th century); (3) Cambridge
+    University Library, MS Mm. 6.29 (15th century).¹ These collections, which
+    contain recipes describing a wide array of technical procedures (e.g.
+    preparations of dyeing substances and various chemicals; metallurgical
+    processes; purple dyeing; imitation of gemstones, etc.) also include
+    instructions on how to prepare inks of various colours. An interest in this
+    area of expertise is not
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Martelli
+      given: Matteo
+  citation-key: martelliAlchemicalInksSyriac2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 79-104
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: ‘Alchemical’ Inks in the Syriac Tradition
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.11
 
 - id: mycompasstvHowMakePapyrus2013
   accessed:
@@ -565,6 +916,27 @@ references:
   type: webpage
   URL: https://www.gutenberg.org/files/55757/55757-h/55757-h.htm
 
+- id: PulpPaperMaking1989
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: PulpPaperMaking1989
+  collection-title: Background paper (United States. Congress. Office of Technology Assessment)
+  container-title: Technologies for reducing dioxin in the manufacture of bleached wood pulp
+  event-place: Washington, DC
+  issued:
+    - year: 1989
+  language: eng
+  note: 'OCLC: 679747377'
+  page: 17-26
+  publisher: Congress of the U.S., Office of Technology Assessment
+  publisher-place: Washington, DC
+  source: Open WorldCat
+  title: The Pulp and Paper Making Processes
+  type: chapter
+  URL: http://catalog.hathitrust.org/api/volumes/oclc/19876873.html
+
 - id: QALAM
   abstract: "QALAM\_ “reed pen.”\_ Qalam (قلم) is a common name for a reed (nay/ney, نی), a perennial plant of the grass family (Gramineae), after its hollow stem is cut and a..."
   accessed:
@@ -635,6 +1007,187 @@ references:
   type: entry-encyclopedia
   URL: https://en.wikipedia.org/w/index.php?title=Quill&oldid=1287956017
 
+- id: rabinMaterialStudiesHistoric2021
+  abstract: >-
+    The transition period from carbon ink, commonly associated with Antiquity,
+    to iron-gall ink, extremely popular in the medieval Middle East and Europe,
+    provides the focus for our investigative work. Our studies combine a search
+    of extant written records with an experimental determination of the ink
+    composition in selected, preferably dated and localized manuscripts.¹ Though
+    ink studies have become increasingly popular in the last five to ten years,
+    no large-scale research in this field has yet been conducted and, therefore,
+    a general picture cannot be drawn at this stage.  To outline the inks of the
+    transition period, we begin with the
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Rabin
+      given: Ira
+  citation-key: rabinMaterialStudiesHistoric2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 70-78
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: 'Material Studies of Historic Inks: Transition from Carbon to Iron-Gall Inks'
+  title-short: Material Studies of Historic Inks
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.10
+
+- id: raggettiIntroduction2021
+  abstract: >-
+    An Arabic couplet, which circulated in Mediaeval erudite and scribal
+    circles, says that the art of penmanship results from the sum of four
+    different elements: the blackness of the ink, the making of a beautiful
+    written artefact, a sharp pen, and a good sheet of paper. This aphoristic
+    hemistich singles out the pivotal components common to almost all acts of
+    writing: the presence of a medium, a suitable support, along with the use of
+    ergonomic writing implements in order to obtain a final result that has
+    aesthetic value. This synthetic perspective allows one to approach many
+    different cultures and historical
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Raggetti
+      given: Lucia
+  citation-key: raggettiIntroduction2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  page: 1-5
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: Introduction
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.6
+
+- id: raggettiOrdinaryInksIncredible2021
+  abstract: >-
+    The 13th-century alchemist Abū al-Qāsim al-ʿIrāqī (7th/13th century)\* —
+    also known as al-Sīmāwī (‘the practitioner of natural magic’) — composed a
+    peculiar collection of 30 chapters, entitled  *Kitāb ʿuyūn al-ḥaqāʾiq
+    wa-īḍāḥ al-ṭarāʾiq*  (‘The best of true facts and the explanation of their
+    ways’), dealing with all sorts of tricks, deceptions, wonders, and the
+    specialists in these fields.¹ Different scholars have pointed out the role
+    of this text in the history of magic and its importance as an indirect
+    witness to the pseudo-Platonic  *Kitāb al-nawāmīs*  (‘Book of natural laws,’
+    the  *Liber Anegueminis*  in the Western tradition).² The magical components
+    also include
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Raggetti
+      given: Lucia
+  citation-key: raggettiOrdinaryInksIncredible2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 154-192
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: Ordinary Inks and Incredible Tricks in al-ʿIrāqī’s ʿUyūn al-ḥaqāʾiq
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.14
+
+- id: raggettiTracesInkExperiences2021
+  abstract: >-
+    Traces of Ink. Experiences of Philology and Replication is a collection of
+    original papers exploring the textual and material aspects of inks and
+    ink-making in a number of premodern cultures (Babylonia, the Graeco-Roman
+    world, the Syriac milieu and the Arabo-Islamic tradition). The volume
+    proposes a fresh and interdisciplinary approach to the study of technical
+    traditions, in which new results can be achieved thanks to the close
+    collaboration between philologists and scientists. Replication represents a
+    crucial meeting point between these two parties: a properly edited text
+    informs the experts in the laboratory who, in turn, may shed light on many
+    aspects of the text by recreating the material reality behind it.
+    Contributors are: Miriam Blanco Cesteros, Michele Cammarosano, Claudia
+    Colini, Vincenzo Damiani, Sara Fani, Matteo Martelli, Ira Rabin, Lucia
+    Raggetti, and Katja Weirauch
+  citation-key: raggettiTracesInkExperiences2021
+  collection-number: '7'
+  collection-title: >-
+    Nuncius series: Studies and Sources in the Material and Visual History of
+    Science
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden Boston
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: eng
+  publisher: Brill
+  publisher-place: Leiden Boston
+  source: BnF ISBN
+  title: 'Traces of ink: experiences of philology and replication'
+  title-short: Traces of ink
+  type: book
+
+- id: RagsRagCollectors
+  abstract: >-
+    At the beginning of the early modern period aristocratic landowners were not
+    only engaged in agriculture but were also setting up more and more
+    commercial enterprises. Moreover, they enjoyed monopoly rights which enabled
+    them to control local markets, for example for the sale of beer. Quarries,
+    sawmills, brickworks and limekilns were mostly used to meet the requirements
+    of a
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: RagsRagCollectors
+  container-title: Die Welt der Habsburger
+  language: en
+  title: Rags and rag collectors – On making paper
+  type: webpage
+  URL: https://www.habsburger.net/en/chapter/rags-and-rag-collectors-making-paper
+
+- id: RecoveringContrastFaded2018
+  abstract: "By\_Olivia Raiche-Tanner, Annika Vetter and Michael Robertson It sometimes happens that ink used in the preparation of documents will fade resulting in reduced contrast between the ink and substrate…"
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  citation-key: RecoveringContrastFaded2018
+  container-title: Active History
+  issued:
+    - year: 2018
+      month: 9
+      day: 12
+  language: en-CA
+  title: Recovering Contrast in Faded Documents
+  type: post-weblog
+  URL: >-
+    https://activehistory.ca/blog/2018/09/12/recovering-contrast-in-faded-documents/
+
 - id: ReedPen2025
   abstract: >-
     A reed pen (Ancient Greek: κάλαμοι kalamoi; singular κάλαμος kalamos) or
@@ -659,6 +1212,59 @@ references:
   type: entry-encyclopedia
   URL: https://en.wikipedia.org/w/index.php?title=Reed_pen&oldid=1276951612
 
+- id: risdmuseumMakingIronGall
+  abstract: >-
+    Making Iron Gall Ink: This Instructable is part of a project I completed for
+    the RISD Museum, for which I copied Luca Cambiaso’s drawing Deposition from
+    the Cross (ca. 1570). This lesson is paired with a secondary article on how
+    to make a quill pen.  Iron gall ink contai…
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - literal: risdmuseum
+  citation-key: risdmuseumMakingIronGall
+  container-title: Instructables
+  language: en
+  title: Making Iron Gall Ink
+  type: webpage
+  URL: https://www.instructables.com/Making-Iron-Gall-Ink/
+
+- id: risdmuseumMakingQuillPen
+  abstract: >-
+    Making a Quill Pen: The quill pen, my favorite tool for ink drawing, was the
+    standard tool for writing and drawing in Europe until the 19th century.
+    Goose quills, particularly large (at least 10-inch) feathers taken from the
+    edge of the wing, provide the ideal combinat…
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - literal: risdmuseum
+  citation-key: risdmuseumMakingQuillPen
+  container-title: Instructables
+  language: en
+  title: Making a Quill Pen
+  type: webpage
+  URL: https://www.instructables.com/Making-a-quill-pen/
+
+- id: robertc.williamsmuseumofpapermakingHistoryPapermakingWorld
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  author:
+    - literal: Robert C. Williams Museum of Papermaking
+  citation-key: robertc.williamsmuseumofpapermakingHistoryPapermakingWorld
+  language: en
+  publisher: Robert C. Williams Museum of Papermaking
+  title: History of Papermaking Around the World
+  type: report
+  URL: >-
+    https://paper.gatech.edu/sites/default/files/2021-04/History%20of%20Papermaking%20Around%20the%20World.pdf
+
 - id: santjordinycPapyrusInventionBooks2023
   accessed:
     - year: 2025
@@ -679,6 +1285,36 @@ references:
   title-short: Papyrus
   type: motion_picture
   URL: https://www.youtube.com/watch?v=bJSSaJ8gEkM
+
+- id: shinji415HowChineseMade2023
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  author:
+    - family: Shinji415
+      given: ''
+  citation-key: shinji415HowChineseMade2023
+  container-title: r/Damnthatsinteresting
+  genre: Reddit Post
+  issued:
+    - year: 2023
+      month: 9
+      day: 15
+  title: How the Chinese made paper from bamboo 1000 years ago
+  type: post
+  URL: >-
+    https://www.reddit.com/r/Damnthatsinteresting/comments/16jo86p/how_the_chinese_made_paper_from_bamboo_1000_years/
+
+- id: sigurdssonINFRAREDMULTISPECTRALIMAGING
+  author:
+    - family: Sigurđsson
+      given: Þorgeir
+  citation-key: sigurdssonINFRAREDMULTISPECTRALIMAGING
+  language: en
+  source: Zotero
+  title: INFRARED AND MULTISPECTRAL IMAGING OF MANUSCRIPTS
+  type: article-journal
 
 - id: sonstroemHowMakePaper
   abstract: >-
@@ -773,6 +1409,18 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=bggttPftmVs
 
+- id: UseRagsPaper
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: UseRagsPaper
+  container-title: Ivybridge Heritage
+  language: en-US
+  title: The use of rags in paper making
+  type: post-weblog
+  URL: https://ivybridge-heritage.org/archive/the-use-of-rags-in-paper-making/
+
 - id: vallejomoreuBooksSkinDetectives2023
   author:
     - family: Vallejo Moreu
@@ -836,4 +1484,60 @@ references:
       given: Charlotte
   type: book
   URL: https://www.google.de/books/edition/Papyrus/seonEQAAQBAJ
+
+- id: weirauchWoWWritingWax2021
+  abstract: >-
+    The earliest references to the use of wax boards date from the third
+    millennium BCE. From a structural and functional point of view, wax diptychs
+    can be truly considered as proto-codices, i.e. the earliest form of the
+    modern book.¹ Used without interruption for more than three millennia for a
+    variety of scripts in a number of different cultures, wax boards represent
+    the longest-lived writing medium in human history. In the following
+    discussion, we will focus on the earliest history of this medium as attested
+    in the cuneiform cultures of the Ancient Near East, and on what those
+    ancient times can
+  accessed:
+    - year: 2025
+      month: 5
+      day: 13
+  author:
+    - family: Weirauch
+      given: Katja
+    - family: Cammarosano
+      given: Michele
+  citation-key: weirauchWoWWritingWax2021
+  container-title: 'Traces of Ink: Experiences of Philology and Replication'
+  editor:
+    - family: Raggetti
+      given: Lucia
+  event-place: Leiden
+  ISBN: 978-90-04-42111-0
+  issued:
+    - year: 2021
+  language: en
+  page: 6-32
+  publisher: Brill
+  publisher-place: Leiden
+  source: JSTOR
+  title: >-
+    WoW! Writing on Wax in Ancient Mesopotamia and Today: Questions and Results
+    from an Interdisciplinary Project
+  title-short: WoW! Writing on Wax in Ancient Mesopotamia and Today
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.7
+
+- id: WoodsPaper
+  abstract: >-
+    Why is paper important? This article explores the history of paper and how
+    it is made today. It is part of an educational series for youth.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 29
+  citation-key: WoodsPaper
+  language: en
+  title: 'From the Woods: Paper!'
+  title-short: From the Woods
+  type: webpage
+  URL: https://extension.psu.edu/from-the-woods-paper
 ...
