@@ -78,6 +78,46 @@ references:
   type: book
   URL: https://dx.doi.org/10.5281/zenodo.46784
 
+- id: bodleianlibrariesuniversityofoxfordPersianRecipesBlack
+  accessed:
+    - year: 2025
+      month: 6
+      day: 10
+  author:
+    - literal: Bodleian Libraries, University of Oxford
+  citation-key: bodleianlibrariesuniversityofoxfordPersianRecipesBlack
+  language: en
+  title: 'Persian recipes: black inks'
+  title-short: Persian recipes
+  type: webpage
+  URL: >-
+    https://www.bodleian.ox.ac.uk/about/libraries/our-work/conservation/persian-recipes/black-inks
+
+- id: bradstreetAuthorHerBook2018
+  abstract: >-
+    Thou ill-form’d offspring of my feeble brain, Who after birth didst by my
+    side remain, Till snatched from thence by friends, less wise than true, Who
+    thee abroad, expos’d to publick view, Made thee in raggs, halting to th’
+    press to trudge, Where errors were not lessened (all may judg).
+  accessed:
+    - year: 2025
+      month: 6
+      day: 13
+  author:
+    - family: Bradstreet
+      given: Anne
+  citation-key: bradstreetAuthorHerBook2018
+  container-title: The Complete Works of Anne Bradstreet
+  event-place: '1981'
+  issued:
+    - year: 2018
+      month: 2
+      day: 27
+  publisher-place: '1981'
+  title: The Author to Her Book
+  type: chapter
+  URL: https://www.poetryfoundation.org/poems/43697/the-author-to-her-book
+
 - id: businessinsiderHowAnimalHides2021
   accessed:
     - year: 2025
@@ -301,6 +341,25 @@ references:
   title: Differences between Parchment, Vellum and Paper
   type: webpage
   URL: https://www.archives.gov/preservation/formats/paper-vellum.html
+
+- id: dragonflyscribeblogCarbonBlackInk2020
+  abstract: "Recipes for carbon black ink in the medieval period are not as common as those for iron gall ink, but they do exist.\_ From the research I have done, it appears that in Europe during the period befo…"
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  author:
+    - literal: dragonflyscribeblog
+  citation-key: dragonflyscribeblogCarbonBlackInk2020
+  container-title: The Research and Art of Marion Forester
+  issued:
+    - year: 2020
+      month: 3
+      day: 5
+  language: en
+  title: Carbon Black Ink
+  type: post-weblog
+  URL: https://dragonflyscribeblog.wordpress.com/2020/03/05/carbon-black-ink/
 
 - id: drewmatottPapermakingDifferentSettings2023
   accessed:
@@ -575,6 +634,16 @@ references:
   URL: >-
     https://ianfrielhistorian.wordpress.com/2020/11/19/the-victorian-rag-trade-smallpox-and-a-sussex-paper-mill/
 
+- id: ImagingArchimedesPalimpsest
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  citation-key: ImagingArchimedesPalimpsest
+  title: Imaging of the Archimedes Palimpsest
+  type: webpage
+  URL: https://www.archimedespalimpsest.org/about/imaging/
+
 - id: jacksonsartHowTwoRivers2021
   accessed:
     - year: 2025
@@ -780,6 +849,32 @@ references:
   title: ‘Alchemical’ Inks in the Syriac Tradition
   type: chapter
   URL: https://www.jstor.org/stable/10.1163/j.ctv1sr6hgk.11
+
+- id: mooreIntroduction2022
+  accessed:
+    - year: 2025
+      month: 6
+      day: 10
+  author:
+    - family: Moore
+      given: James D.
+  citation-key: mooreIntroduction2022
+  container-title: New Aramaic Papyri from Elephantine in Berlin
+  DOI: 10.1163/9789004505568
+  event-place: Leiden
+  ISBN: 978-90-04-50556-8 978-90-04-50557-5
+  issued:
+    - year: 2022
+  language: English
+  license: open access
+  note: 'Accepted: 2023-11-17T10:05:00Z'
+  page: 1-30
+  publisher: Brill
+  publisher-place: Leiden
+  source: directory.doabooks.org
+  title: Introduction
+  type: chapter
+  URL: https://directory.doabooks.org/handle/20.500.12854/122326
 
 - id: mycompasstvHowMakePapyrus2013
   accessed:
@@ -1265,6 +1360,22 @@ references:
   URL: >-
     https://paper.gatech.edu/sites/default/files/2021-04/History%20of%20Papermaking%20Around%20the%20World.pdf
 
+- id: roperHistoryBookMiddle2013
+  author:
+    - family: Roper
+      given: Geoffrey (Herausgeber)
+  citation-key: roperHistoryBookMiddle2013
+  event-place: Farnham
+  ISBN: 978-1-4094-3310-1
+  issued:
+    - year: 2013
+  number-of-pages: XXVII, 580 Seiten
+  publisher: Ashgate
+  publisher-place: Farnham
+  source: COinS
+  title: The History of the book in the Middle East
+  type: book
+
 - id: santjordinycPapyrusInventionBooks2023
   accessed:
     - year: 2025
@@ -1315,6 +1426,18 @@ references:
   source: Zotero
   title: INFRARED AND MULTISPECTRAL IMAGING OF MANUSCRIPTS
   type: article-journal
+
+- id: SinaiStCatherines
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  citation-key: SinaiStCatherines
+  title: >-
+    Sinai, St. Catherine’s Monastery, Syriac 30 - Sinai Manuscripts Digital
+    Library
+  type: webpage
+  URL: https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz12n5hwt
 
 - id: sonstroemHowMakePaper
   abstract: >-
@@ -1484,6 +1607,26 @@ references:
       given: Charlotte
   type: book
   URL: https://www.google.de/books/edition/Papyrus/seonEQAAQBAJ
+
+- id: Wasserzeichendatenbanken
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  citation-key: Wasserzeichendatenbanken
+  title: Wasserzeichendatenbanken
+  type: webpage
+  URL: https://www.wzma.at/wzonlinekataloge.php
+
+- id: WasserzeichenInformationssystemStartseite
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  citation-key: WasserzeichenInformationssystemStartseite
+  title: Wasserzeichen-Informationssystem - Startseite
+  type: webpage
+  URL: https://www.wasserzeichen-online.de/wzis/
 
 - id: weirauchWoWWritingWax2021
   abstract: >-
