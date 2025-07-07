@@ -1,20 +1,5 @@
 ---
 references:
-- id: 17Bookbinding
-  abstract: '"17 Bookbinding" published on  by Oxford University Press.'
-  accessed:
-    - year: 2025
-      month: 6
-      day: 27
-  citation-key: 17Bookbinding
-  container-title: Oxford Reference
-  ISBN: '9780198606536'
-  language: en
-  title: 17 Bookbinding
-  type: webpage
-  URL: >-
-    https://www.oxfordreference.com/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-0017
-
 - id: 450YearsNew
   abstract: A conservators guide to the restoration process
   accessed:
@@ -52,6 +37,33 @@ references:
   type: book
   URL: >-
     https://brill-com.proxy.ub.uni-frankfurt.de/display/title/57317?contents=editorial-content
+
+- id: attarInscription2010
+  author:
+    - family: Attar
+      given: Karen
+  citation-key: attarInscription2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: inscription
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-2445?rskey=OyoZiA&result=17
 
 - id: bagnallOxfordHandbookPapyrology2009
   author:
@@ -148,6 +160,29 @@ references:
   title: The Author to Her Book
   type: chapter
   URL: https://www.poetryfoundation.org/poems/43697/the-author-to-her-book
+
+- id: brinkmannCodicologyTechnologyIslamic2012
+  author:
+    - family: Brinkmann
+      given: Stefanie
+    - family: Wiesmüller
+      given: Beate
+  citation-key: brinkmannCodicologyTechnologyIslamic2012
+  edition: 2., durchgesehene Aufl.
+  event-place: '[Ann Arbor, Michigan]'
+  issued:
+    - year: 2012
+  number-of-pages: 215 p.
+  publisher: Frank & Timme
+  publisher-place: '[Ann Arbor, Michigan]'
+  source: COinS
+  title: >-
+    From codicology to technology : Islamic manuscripts and their place in
+    scholarship
+  title-short: From codicology to technology
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3033485
 
 - id: britishlibraryDigitisingHebrewManuscripts2016
   abstract: Creative Commons Attribution license (reuse allowed)
@@ -672,8 +707,92 @@ references:
   source: DOI.org (Crossref)
   title: Bookbinding
   type: chapter
+  URL: https://al-furqan.com/bookbinding/
+
+- id: derocheCraftsmenMakingManuscript2005
+  accessed:
+    - year: 2025
+      month: 6
+      day: 27
+  author:
+    - family: Déroche
+      given: François
+  citation-key: derocheCraftsmenMakingManuscript2005
+  container-title: >-
+    Islamic Codicology: an introduction to the study of manuscripts in Arabic
+    script
+  contributor:
+    - family: Berthier
+      given: Annie
+    - family: Guesdon
+      given: Marie-Geneviève
+    - family: Guineau
+      given: Bernard
+    - family: Richard
+      given: Francis
+    - family: Vernay-Nouri
+      given: Annie
+    - family: Vezin
+      given: Jean
+    - family: Waley
+      given: Muhammad Isa
+  DOI: 10.56656/100099
+  edition: '1'
+  event-place: London
+  ISBN: 978-1-905122-02-8
+  issued:
+    - year: 2005
+  language: en
+  page: 253-310
+  publisher: Al-Furqan Islamic Heritage Foundation
+  publisher-place: London
+  source: DOI.org (Crossref)
+  title: Craftsmen and the Making of the Manuscript
+  type: chapter
+  URL: https://al-furqan.com/37328/
+
+- id: derocheEvidenceHistoryManuscript2005
+  accessed:
+    - year: 2025
+      month: 6
+      day: 27
+  author:
+    - family: Déroche
+      given: François
+  citation-key: derocheEvidenceHistoryManuscript2005
+  container-title: >-
+    Islamic Codicology: an introduction to the study of manuscripts in Arabic
+    script
+  contributor:
+    - family: Berthier
+      given: Annie
+    - family: Guesdon
+      given: Marie-Geneviève
+    - family: Guineau
+      given: Bernard
+    - family: Richard
+      given: Francis
+    - family: Vernay-Nouri
+      given: Annie
+    - family: Vezin
+      given: Jean
+    - family: Waley
+      given: Muhammad Isa
+  DOI: 10.56656/100099
+  edition: '1'
+  event-place: London
+  ISBN: 978-1-905122-02-8
+  issued:
+    - year: 2005
+  language: en
+  page: 311-344
+  publisher: Al-Furqan Islamic Heritage Foundation
+  publisher-place: London
+  source: DOI.org (Crossref)
+  title: Evidence for the History of a Manuscript
+  type: chapter
   URL: >-
-    https://al-furqan.com/ar/publication/%d8%a7%d9%84%d9%85%d8%af%d8%ae%d9%84-%d8%a5%d9%84%d9%89-%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d9%88%d8%b7-%d8%a8%d8%a7%d9%84%d8%ad%d8%b1%d9%81-%d8%a7-2-9781905122028/
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23929815040/CourseNode/93668888136198/09+-+Deroche+-+2005+-+Evidence+for+the+History+of+a+Manuscript.pdf
 
 - id: derocheIslamicCodicologyIntroduction2005
   accessed:
@@ -713,8 +832,6 @@ references:
     script
   title-short: Islamic Codicology
   type: book
-  URL: >-
-    https://al-furqan.com/ar/publication/%d8%a7%d9%84%d9%85%d8%af%d8%ae%d9%84-%d8%a5%d9%84%d9%89-%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d9%88%d8%b7-%d8%a8%d8%a7%d9%84%d8%ad%d8%b1%d9%81-%d8%a7-2-9781905122028/
 
 - id: derocheQuiresCodex2005
   accessed:
@@ -797,8 +914,7 @@ references:
   source: DOI.org (Crossref)
   title: Ruling and Page Layout
   type: chapter
-  URL: >-
-    https://al-furqan.com/ar/publication/%d8%a7%d9%84%d9%85%d8%af%d8%ae%d9%84-%d8%a5%d9%84%d9%89-%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d9%88%d8%b7-%d8%a8%d8%a7%d9%84%d8%ad%d8%b1%d9%81-%d8%a7-2-9781905122028/
+  URL: https://al-furqan.com/ruling-and-page-layout/
 
 - id: derromershopAnleitung11125aVorlage
   author:
@@ -953,6 +1069,54 @@ references:
   URL: >-
     https://blogs.bl.uk/collectioncare/2014/03/father-k%C3%B6gel-and-the-ultra-violet-examination-of-manuscripts.html
 
+- id: friedrichOneVolumeLibrariesComposite2016
+  citation-key: friedrichOneVolumeLibrariesComposite2016
+  editor:
+    - family: Friedrich
+      given: Michael
+    - family: Schwarke
+      given: Cosima
+  event-place: Berlin
+  ISBN: 978-3-11-049695-6
+  issued:
+    - year: 2016
+  number-of-pages: 1 Online-Ressource
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: COinS
+  title: 'One-Volume Libraries: Composite and Multiple-Text Manuscripts'
+  title-short: One-Volume Libraries
+  type: book
+  URL: https://dx.doi.org/10.1515/9783110496956
+
+- id: gacekArabicManuscriptTradition2001
+  abstract: xvi, 269 p. ; 25 cm; Includes bibliographical references and index
+  accessed:
+    - year: 2025
+      month: 7
+      day: 7
+  author:
+    - family: Gacek
+      given: Adam
+  citation-key: gacekArabicManuscriptTradition2001
+  contributor:
+    - literal: Internet Archive
+  event-place: Leiden
+  ISBN: 978-90-04-12061-7
+  issued:
+    - year: 2001
+  language: eng
+  number-of-pages: '298'
+  publisher: Brill
+  publisher-place: Leiden
+  source: Internet Archive
+  title: >-
+    The Arabic manuscript tradition : A glossary of technical terms and
+    bibliography
+  title-short: The Arabic manuscrip[t] tradition
+  type: book
+  URL: http://archive.org/details/arabicmanuscript0000gace
+
 - id: gettymuseumMakingManuscripts2014
   accessed:
     - year: 2025
@@ -1100,6 +1264,33 @@ references:
   type: article-journal
   URL: https://www.persee.fr/doc/scrip_0036-9772_2011_num_65_2_4134
   volume: '65'
+
+- id: harrisParatext2010
+  author:
+    - family: Harris
+      given: Neil
+  citation-key: harrisParatext2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: paratext
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-3593?rskey=EkHi2c&result=1
 
 - id: HarvestingFibers
   abstract: >-
@@ -1324,6 +1515,25 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=GQXa6MQvt7g
 
+- id: kropfResearchGuidesIslamic
+  abstract: >-
+    Resources for the study of manuscripts and manuscript cultures of Islamic
+    cultural areas
+  accessed:
+    - year: 2025
+      month: 7
+      day: 7
+  author:
+    - family: Kropf
+      given: Evyn
+  citation-key: kropfResearchGuidesIslamic
+  language: en
+  license: Copyright University of Michigan Library 2025
+  title: 'Research Guides: Islamic Manuscript Studies : Reading Lists'
+  title-short: Research Guides
+  type: webpage
+  URL: https://guides.lib.umich.edu/islamicmsstudies/readinglists
+
 - id: LayingOutText
   accessed:
     - year: 2025
@@ -1456,6 +1666,32 @@ references:
   title: 1.3. The making of the codex, 1.4. The layout of the page, 1.7. Bookbinding
   type: chapter
   URL: https://dx.doi.org/10.5281/zenodo.46784
+
+- id: margaretm.smithTextualArticulation2010
+  author:
+    - literal: Margaret M. Smith
+  citation-key: margaretm.smithTextualArticulation2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: textual articulation
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-4811
 
 - id: martelliAlchemicalInksSyriac2021
   abstract: >-
@@ -1632,6 +1868,33 @@ references:
   title: 'Papyrus: A Brief History – Dartmouth Ancient Books Lab'
   type: webpage
   URL: https://sites.dartmouth.edu/ancientbooks/2016/05/23/67/
+
+- id: pearson17Bookbinding2010
+  author:
+    - family: Pearson
+      given: David
+  citation-key: pearson17Bookbinding2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: 17 Bookbinding
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-0017?rskey=PrVJQo&result=1
 
 - id: pelikanWhoseBibleIt2006
   abstract: >-
@@ -2052,6 +2315,33 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB321212363
 
+- id: rounceMarginalia2010
+  author:
+    - family: Rounce
+      given: Adam
+  citation-key: rounceMarginalia2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: marginalia
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-3060?rskey=EkHi2c&result=7
+
 - id: santjordinycPapyrusInventionBooks2023
   accessed:
     - year: 2025
@@ -2072,6 +2362,45 @@ references:
   title-short: Papyrus
   type: motion_picture
   URL: https://www.youtube.com/watch?v=bJSSaJ8gEkM
+
+- id: scheperTechniqueIslamicBookbinding2015
+  abstract: >-
+    The Technique of Islamic Bookbinding is the first monograph dedicated to the
+    technical development of the bookbinding tradition in the Islamic world.
+    Based on an assessment of the extensive oriental collections in the Leiden
+    University Library, the various sewing techniques, constructions and the
+    application of covering materials are described in great detail. A
+    comparative analysis of the historic treatises on bookbinding provides
+    further insight into the actual making of the Islamic book. In addition, it
+    is demonstrated that variations in time and place can be established with
+    the help of distinctive material characteristics. Karin Scheper’s work
+    refutes the perception of Islamic bookbinding as a weak structure, which has
+    generally but erroneously been typified as a case-binding. Instead, the
+    author argues how diverse methods were used to create sound structures, thus
+    fundamentally challenging our understanding of the Islamic bookbinding
+    practice. Karin Scheper has been awarded the De La Court Award 2016 by The
+    Royal Netherlands Academy of Arts and Sciences for her study of the
+    bookbinding tradition in the Islamic world.
+  author:
+    - family: Scheper
+      given: Karin
+  citation-key: scheperTechniqueIslamicBookbinding2015
+  ISBN: 978-90-04-29111-9
+  issued:
+    - year: 2015
+      month: 3
+      day: 31
+  language: en
+  number-of-pages: '440'
+  publisher: BRILL
+  source: Google Books
+  title: >-
+    The Technique of Islamic Bookbinding: Methods, Materials and Regional
+    Varieties
+  title-short: The Technique of Islamic Bookbinding
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D2006490
 
 - id: shinji415HowChineseMade2023
   accessed:
@@ -2115,6 +2444,87 @@ references:
   type: webpage
   URL: https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz12n5hwt
 
+- id: smithColophon2010
+  author:
+    - family: Smith
+      given: Margaret M.
+  citation-key: smithColophon2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: colophon
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-1119
+
+- id: smithRubrication2010
+  author:
+    - family: Smith
+      given: Margaret M.
+  citation-key: smithRubrication2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: rubrication
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-1119
+
+- id: smithTitlepage2010
+  author:
+    - family: Smith
+      given: Margaret M.
+  citation-key: smithTitlepage2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: title-page
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-4887?rskey=EkHi2c&result=8
+
 - id: sonstroemHowMakePaper
   abstract: >-
     Paper is an indispensable part of modern life. In fact, each American uses
@@ -2133,6 +2543,63 @@ references:
   type: webpage
   URL: >-
     https://indianapublicmedia.org/amomentofscience/how-to-make-paper-your-own-kitchen.php
+
+- id: stewartLexiconTermsSearch2020
+  abstract: Lexicon Terms and Search
+  accessed:
+    - year: 2025
+      month: 7
+      day: 7
+  citation-key: stewartLexiconTermsSearch2020
+  container-title: HMML School
+  contributor:
+    - family: Gullo
+      given: Daniel K.
+    - family: Meyerhofer
+      given: John
+    - family: Ruff
+      given: Carin
+    - family: McCollum
+      given: Adam Carter
+    - family: Calabro
+      given: David
+  editor:
+    - family: Stewart
+      given: Columba
+  event-place: Collegeville, Minn.
+  issued:
+    - year: 2020
+    - year: 2024
+  language: en
+  publisher: Hill Museum & Manuscript Library
+  publisher-place: Collegeville, Minn.
+  title: Lexicon Terms and Search
+  type: chapter
+  URL: https://hmmlschool.org/lexicon/
+
+- id: suarezIncipit2010
+  citation-key: suarezIncipit2010
+  container-title: The Oxford companion to the book
+  editor:
+    - family: Suarez
+      given: Michael F.
+    - family: Woudhuysen
+      given: H. R.
+  event-place: Oxford
+  ISBN: '9780198606536'
+  issued:
+    date-parts:
+      - - '2010'
+  language: en
+  original-date:
+    - year: 2010
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: incipit
+  type: chapter
+  URL: >-
+    https://www-oxfordreference-com.proxy.ub.uni-frankfurt.de/display/10.1093/acref/9780198606536.001.0001/acref-9780198606536-e-2445?rskey=OyoZiA&result=17
 
 - id: suarezOxfordCompanionBook2010
   author:
@@ -2429,4 +2896,57 @@ references:
   type: webpage
   URL: >-
     https://sites.dartmouth.edu/ancientbooks/2016/05/23/the-writing-instrument-the-reed-and-quill-and-ink/
+
+- id: zakiDynamicHistoryMS2020
+  abstract: >-
+    <section class="abstract"><h2 class="abstractTitle text-title my-1"
+    id="d102e2">Abstract</h2><p>This paper unfolds parts of the dynamic, yet
+    mostly hidden, history of <span style="font-variant: small-caps;"
+    smallcaps="smallcaps">MS</span> Sinai Arabic 151 based on its
+    paleographical, codicological, paratextual, and textual features. Combining
+    these aspects opens new horizons of research in the Arabic Bible manuscripts
+    that had previously received attention limited solely to the text. <span
+    style="font-variant: small-caps;" smallcaps="smallcaps">MS</span> Sinai, Ar.
+    151 is an intact manuscript containing the Pauline Epistles, Acts of the
+    Apostles, and the Catholic Epistles. Its fame derives mainly from its
+    colophon, which dates it to 867 <span style="font-variant: small-caps;"
+    smallcaps="smallcaps">CE</span>, and bestows it with the distinction of
+    belonging to the earliest Arabic Bibles. In observing the various stages
+    through which the manuscript evolved from two separate units of production
+    into the codex preserved today, several aspects of the life of <span
+    style="font-variant: small-caps;" smallcaps="smallcaps">MS</span> Sinai, Ar.
+    151, such as the copies made from it, its damage and restoration, and the
+    functions it served, become clearer. Furthermore, for different reasons,
+    scholars have cast shadows on its colophon’s authenticity. Our investigation
+    clarifies that there is no reason to suspect the authenticity of the
+    colophon.</p></section>
+  accessed:
+    - year: 2020
+      month: 7
+      day: 16
+  author:
+    - family: Zaki
+      given: Vevian F.
+  citation-key: zakiDynamicHistoryMS2020
+  container-title: Journal of Islamic Manuscripts
+  DOI: 10.1163/1878464X-01102004
+  ISSN: 1878-4631, 1878-464x
+  issue: '2'
+  issued:
+    - year: 2020
+      month: 7
+      day: 13
+  language: en
+  page: 200-259
+  publisher: Brill
+  section: Journal of Islamic Manuscripts
+  source: brill-com.emedien.ub.uni-muenchen.de
+  title: >-
+    A Dynamic History: MS Sinai, Arabic 151 in the Hands of Scribes, Readers,
+    and Restorers
+  title-short: A Dynamic History
+  type: article-journal
+  URL: >-
+    https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/jim/11/2/article-p200_3.xml
+  volume: '11'
 ...
